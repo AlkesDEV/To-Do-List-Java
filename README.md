@@ -14,7 +14,7 @@ Remover tarefas que já foram concluídas.
 E, claro, Sair do programa quando terminar.
 
 🛠️ O que eu usei aqui?
-Apenas Java puro!
+Só Java puro, meu brother (POR ENQUANTO)!
 
 A ideia era focar nos fundamentos da linguagem, então não usei nenhuma biblioteca ou framework complicado. Você só vai precisar do JDK (Java Development Kit) para rodar o projeto na sua máquina.
 
